@@ -1,0 +1,3 @@
+# Comments: This script will enable a user with sudo privileges to arrange a report offering various bits of 
+#           information about a server or other host, and have that information emailed at regular intervals 
+#           to the root user of the server or other host for review.
